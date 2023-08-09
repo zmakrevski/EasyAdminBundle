@@ -62,7 +62,7 @@ return [
     ],
 
     'batch_action_modal' => [
-        'title' => '',
+        'title' => 'Θα εφαρμόσετε την ενέργεια "%action_name%" στο %num_items% αντικείμενο(α).',
         'content' => 'Αυτή η ενέργεια δεν αναιρείται.',
         'action' => 'Συνεχίστε.',
     ],
@@ -122,9 +122,9 @@ return [
     ],
 
     'login_page' => [
-        'username' => 'Username',
-        'password' => 'Password',
-        'sign_in' => 'Sign in',
+        'username' => 'Όνομα χρήστη',
+        'password' => 'Κωδικός πρόσβασης',
+        'sign_in' => 'Συνδεθείτε',
         'forgot_password' => 'Ξεχάσατε τον κωδικό σας?',
         'remember_me' => 'Να με θυμάσαι',
     ],
